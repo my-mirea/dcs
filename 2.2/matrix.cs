@@ -1,6 +1,6 @@
 using System;
 
-public class Matrix {
+class Matrix {
 
     public int rows, columns;
     public double[] matrix;
